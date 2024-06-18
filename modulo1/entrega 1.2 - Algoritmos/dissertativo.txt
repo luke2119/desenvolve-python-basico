@@ -1,0 +1,7 @@
+Exemplo de solucao dissertativa
+
+1.  Leia o numero digitado e armazene-o na condicional ÅgnÅh que deseja multiplicar por 9 #Entrada
+2. Subtrair n-1 e armazenar como primeiro digito na variavel digito1 #Processamento
+3. Subtrair 10-n e armazenar como segundo digito na variavel digito2 #Processamento
+4. Realizar a expressao matematica (digito1*10) +digito2 e armazene como resultado #Processamento
+5. Imprima a variavel ÅgresultadoÅh #Saida

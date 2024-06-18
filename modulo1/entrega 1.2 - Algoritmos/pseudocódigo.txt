@@ -1,0 +1,8 @@
+Exemplo de pseudocodigo
+1. Inicio
+2. Leia n;
+3. digito1 = n-1;
+4. digito2 = 10-n;
+5. resultado = (d1 x 10) +d2;
+6. Imprima resultado;
+7. fim;
