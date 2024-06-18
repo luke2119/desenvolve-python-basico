@@ -1,8 +1,8 @@
 
 # VARIÁVEIS DO TERRENO
-comprimento= int(input("Digite o comprimento: ")
-largura= int(input("Digite a largura: ")
-preco_m2= float(input("Valor do m2: ")
+comprimento= int(input("Digite o comprimento: "))
+largura= int(input("Digite a largura: "))
+preco_m2= float(input("Valor do m2: "))
 
 # FORMULAS DO PROGRAMA
 area_m2= comprimento*largura
