@@ -1,5 +1,5 @@
 # CAMPO DE VARIÁVEIS
-valor_f=86
+valor_f= int(input("Digite a temperatura em Fahrenheit: "))
 
 # EXPRESSÃO DE CONVERSÃO
 valor_c=((valor_f-32)*(5/9))
